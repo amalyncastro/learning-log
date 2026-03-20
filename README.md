@@ -5,3 +5,11 @@ Not a portfolio. Just notes, questions, and things I've taken away.
 
 ## Structure
 Each quarter gets a section. Each week gets a few entries, one per topic I explored. For each topic I write what I learned, what surprised me, and where I'm still confused, all in one blurb. I'll add entries as I go.
+
+## Spring 2026
+### Week 01
+03/20/2026
+- **Started exploring what cognitive science actually is:**
+I didn't realize how many fields it pulls from (neuroscience, linguistics, philosophy, CS). The part that surprised me most was that AI and cog sci basically grew up together in the 50s and 60s. However, I'm still fuzzy on the many career paths one can take with this degree, specifically on whether I'm heading more toward AI research or UX.
+- **Started Harvard CS50's Artifical Intelligence with Python course:**
+Familiar territory since I took data structures and algorithms, but I loved learning how search algorithms apply to AI. I learned about search problems, new vocabulary (e.g., agents, transition models, goal tests, and path costs), data structures, and many search algorithms (e.g., DFS, BFS, un/informed search, A* search, and adversarial search such as depth-limited minimax). A* search and depth-limited minimax were for sure the algorithms that had me rewinding the most to understand. I am confused about the alpha-beta pruning optimization technique for the minimax algorithm, more specifically confused on how to implement it more than understanding why it was created.
