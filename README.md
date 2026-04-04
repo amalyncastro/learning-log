@@ -20,3 +20,12 @@ Familiar territory since I took data structures and algorithms, but I loved lear
 Learned the difference between the two: UX is about how a product *works* for the user (research, wireframes, flow), UI is about how it *looks* (layout, color, typography). What clicked for me was the T-shaped designer concept: you specialize in one area but stay broad across others. That feels like where I want to be. Also learned the design thinking process: Empathize -> Define -> Ideate -> Prototype -> Test. I found these straightforward so far, but I can see how empathy and understanding how users think is basically applied cognitive science.
 - **Degree progress:**
 Took a look at my degree progress and created a plan for the rest of my time at university since next week classes start and it will be my first quarter as a cognitive science major!
+
+### Week 03
+04/03/2026
+- **Intro to Cognitive Science (Getner 2022):**
+This was a reading for my first cognitive science class about learning, reasoning, and representation! Got a proper definition of the field for the first time. The fundamental computational processes (accessing, transforming, aligning, and concatenating representations) are giving me the foundation for what "thinking" actually means computationally.
+- **Memory & working memory (homework readings):**
+The phonological loop concept was new to me, the idea that working memory has a ~2-second acoustic store you actively rehearse was not something I had every thought about before.
+- **Semantics:**
+Taking a linguistics course for the cognitive science major. Heavy week. Covered truth conditions, compositionality, entailment, and the difference between semantic vs. pragmatic meaning. The compositionality argument clicked, we can't memorize infinite sentences, so meaning has to be built from parts using rules. Still fuzzy on quantifier scope and how "every" and "not" interact structurally.
